@@ -1,0 +1,9 @@
+[
+    {
+        "directory": "C:/Users/lyf/Desktop/test",
+        "file": "C:/Users/lyf/Desktop/test/001.cpp",
+        "command": "C:/mingw64/bin/g++.exe -std=c++17 001.cpp -o 001.exe"
+
+    }
+    
+]
